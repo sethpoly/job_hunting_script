@@ -1,5 +1,5 @@
 # job_hunting_script
-A python script which opens up all the necessary wesbites and files that I use when starting a job application session.
+A python script which opens up all the necessary websites and files that I use when starting a job application session.
 
 ## Websites and files opened
 - Various job boards (LinkedIn jobs, Indeed, etc.)
